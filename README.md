@@ -1,10 +1,10 @@
-# GITHUB USER CARD by using React + Vite
+# GitHuv User Card by using React + Vite
 
-User Input Form:
+# User Input Form:
 
 Successfully implemented a form with a single input field for the username.
 
-API Integration:
+# API Integration:
 
 Integrated the GitHub API to fetch public information based on the provided username.
 
